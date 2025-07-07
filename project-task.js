@@ -69,6 +69,13 @@ const invalidBookingJSON = `
 }
 `;
 
+/*
+need to deleteline 47 and 70
+line 50 needs an , at the end
+line 54 name needs to be inside ""
+line 60 age vslue should be null
+line 67 have a trailing ,
+ */
 
 // ============================================
 // ✅ Requirements
